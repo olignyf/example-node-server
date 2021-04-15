@@ -12,11 +12,12 @@
   "author": "James Kyle <me@thejameskyle.com>",
   "license": "ISC",
   "devDependencies": {
-    "@babel/cli": "^7.2.3",
-    "@babel/core": "^7.4.0",
-    "@babel/preset-env": "^7.4.2",
-    "@babel/register": "^7.4.0",
-    "mocha": "^5.2.0",
-    "nodemon": "^1.17.5"
+    "@babel/cli": "^7.13.14",
+    "@babel/core": "^7.13.15",
+    "@babel/preset-env": "^7.13.15",
+    "@babel/register": "^7.13.14",
+    "core-js": "^3.10.1",
+    "mocha": "^8.3.2",
+    "nodemon": "^2.0.7"
   }
 }
