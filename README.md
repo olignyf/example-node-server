@@ -2,10 +2,10 @@
 
 ### Getting Started
 
-First we'll install `@babel/cli`, `@babel/core` and `@babel/preset-env`.
+First we'll install `@babel/cli`, `@babel/core`, `@babel/preset-env`, `@babel/register` and `nodemon`.
 
 ```shell
-$ npm install --save-dev @babel/cli @babel/core @babel/preset-env
+$ npm install --save-dev @babel/cli @babel/core @babel/preset-env @babel/register nodemon
 ```
 
 Then we'll create a `.babelrc` file for configuring babel.
